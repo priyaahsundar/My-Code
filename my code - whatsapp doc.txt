@@ -10,3 +10,5 @@ author: piyaah m
 3. laast seen code
 
 4. attachments (image, audio, video) code
+
+5. hide last seen
