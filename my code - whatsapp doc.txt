@@ -12,3 +12,7 @@ author: piyaah m
 4. attachments (image, audio, video) code
 
 5. hide last seen
+
+6. added audio calls feature
+
+7. added video calls feature
