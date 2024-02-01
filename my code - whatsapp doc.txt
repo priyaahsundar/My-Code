@@ -1,0 +1,12 @@
+This is whatsapp code
+
+author: piyaah m
+---------------------------------------------
+
+1. profile page code
+
+2. chat screen code
+
+3. laast seen code
+
+4. attachments (image, audio, video) code
