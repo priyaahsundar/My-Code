@@ -21,4 +21,4 @@ author: piyaah m
 
 9. added goup feature to include 100 users
 
-10. making group video call with 5 persons
+10. making group video call with 10 persons
