@@ -16,3 +16,5 @@ author: piyaah m
 6. added audio calls feature
 
 7. added video calls feature
+
+8. added status feature
